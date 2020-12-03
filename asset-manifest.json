@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/cart/static/css/main.1e2e3bef.chunk.css",
-    "main.js": "/cart/static/js/main.a7c583f1.chunk.js",
-    "main.js.map": "/cart/static/js/main.a7c583f1.chunk.js.map",
-    "runtime-main.js": "/cart/static/js/runtime-main.9995157c.js",
-    "runtime-main.js.map": "/cart/static/js/runtime-main.9995157c.js.map",
-    "static/js/2.da05f0ed.chunk.js": "/cart/static/js/2.da05f0ed.chunk.js",
-    "static/js/2.da05f0ed.chunk.js.map": "/cart/static/js/2.da05f0ed.chunk.js.map",
-    "index.html": "/cart/index.html",
-    "static/css/main.1e2e3bef.chunk.css.map": "/cart/static/css/main.1e2e3bef.chunk.css.map",
-    "static/js/2.da05f0ed.chunk.js.LICENSE.txt": "/cart/static/js/2.da05f0ed.chunk.js.LICENSE.txt",
-    "static/media/berenjena.06414bbc.png": "/cart/static/media/berenjena.06414bbc.png",
-    "static/media/costina.4dfc7e15.png": "/cart/static/media/costina.4dfc7e15.png",
-    "static/media/escarola.309725d5.png": "/cart/static/media/escarola.309725d5.png",
-    "static/media/espinaca.5347b4e1.png": "/cart/static/media/espinaca.5347b4e1.png",
-    "static/media/App.scss": "/cart/static/media/shopBackground.a7f57663.jpg",
-    "static/media/pimenton-amarillo.c7ba6065.png": "/cart/static/media/pimenton-amarillo.c7ba6065.png",
-    "static/media/pimenton-verde.0e0357dd.png": "/cart/static/media/pimenton-verde.0e0357dd.png",
-    "static/media/tomate.b9a1a114.png": "/cart/static/media/tomate.b9a1a114.png",
-    "static/media/zanahoria.67572859.png": "/cart/static/media/zanahoria.67572859.png"
+    "main.css": "/static/css/main.238ef9f0.chunk.css",
+    "main.js": "/static/js/main.62223584.chunk.js",
+    "main.js.map": "/static/js/main.62223584.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b08aff46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b08aff46.js.map",
+    "static/js/2.da05f0ed.chunk.js": "/static/js/2.da05f0ed.chunk.js",
+    "static/js/2.da05f0ed.chunk.js.map": "/static/js/2.da05f0ed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.238ef9f0.chunk.css.map": "/static/css/main.238ef9f0.chunk.css.map",
+    "static/js/2.da05f0ed.chunk.js.LICENSE.txt": "/static/js/2.da05f0ed.chunk.js.LICENSE.txt",
+    "static/media/berenjena.06414bbc.png": "/static/media/berenjena.06414bbc.png",
+    "static/media/costina.4dfc7e15.png": "/static/media/costina.4dfc7e15.png",
+    "static/media/escarola.309725d5.png": "/static/media/escarola.309725d5.png",
+    "static/media/espinaca.5347b4e1.png": "/static/media/espinaca.5347b4e1.png",
+    "static/media/App.scss": "/static/media/shopBackground.a7f57663.jpg",
+    "static/media/pimenton-amarillo.c7ba6065.png": "/static/media/pimenton-amarillo.c7ba6065.png",
+    "static/media/pimenton-verde.0e0357dd.png": "/static/media/pimenton-verde.0e0357dd.png",
+    "static/media/tomate.b9a1a114.png": "/static/media/tomate.b9a1a114.png",
+    "static/media/zanahoria.67572859.png": "/static/media/zanahoria.67572859.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9995157c.js",
+    "static/js/runtime-main.b08aff46.js",
     "static/js/2.da05f0ed.chunk.js",
-    "static/css/main.1e2e3bef.chunk.css",
-    "static/js/main.a7c583f1.chunk.js"
+    "static/css/main.238ef9f0.chunk.css",
+    "static/js/main.62223584.chunk.js"
   ]
 }
