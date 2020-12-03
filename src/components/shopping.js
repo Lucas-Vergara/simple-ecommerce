@@ -1,7 +1,6 @@
 import Card from './card';
 import products from './products'
 import React from 'react'
-import { Container } from 'react-bootstrap';
 
 
 const Shopping = () => {
