@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.f082b387.chunk.css",
+    "main.js": "/shopping/static/js/main.a7c583f1.chunk.js",
+    "main.js.map": "/shopping/static/js/main.a7c583f1.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.8b7d8c14.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.8b7d8c14.js.map",
+    "static/js/2.da05f0ed.chunk.js": "/shopping/static/js/2.da05f0ed.chunk.js",
+    "static/js/2.da05f0ed.chunk.js.map": "/shopping/static/js/2.da05f0ed.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "static/css/main.f082b387.chunk.css.map": "/shopping/static/css/main.f082b387.chunk.css.map",
+    "static/js/2.da05f0ed.chunk.js.LICENSE.txt": "/shopping/static/js/2.da05f0ed.chunk.js.LICENSE.txt",
+    "static/media/berenjena.06414bbc.png": "/shopping/static/media/berenjena.06414bbc.png",
+    "static/media/costina.4dfc7e15.png": "/shopping/static/media/costina.4dfc7e15.png",
+    "static/media/escarola.309725d5.png": "/shopping/static/media/escarola.309725d5.png",
+    "static/media/espinaca.5347b4e1.png": "/shopping/static/media/espinaca.5347b4e1.png",
+    "static/media/App.scss": "/shopping/static/media/shopBackground.a7f57663.jpg",
+    "static/media/pimenton-amarillo.c7ba6065.png": "/shopping/static/media/pimenton-amarillo.c7ba6065.png",
+    "static/media/pimenton-verde.0e0357dd.png": "/shopping/static/media/pimenton-verde.0e0357dd.png",
+    "static/media/tomate.b9a1a114.png": "/shopping/static/media/tomate.b9a1a114.png",
+    "static/media/zanahoria.67572859.png": "/shopping/static/media/zanahoria.67572859.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b7d8c14.js",
+    "static/js/2.da05f0ed.chunk.js",
+    "static/css/main.f082b387.chunk.css",
+    "static/js/main.a7c583f1.chunk.js"
+  ]
+}
