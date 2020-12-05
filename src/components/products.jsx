@@ -10,49 +10,49 @@ import zanahoria from '../images/zanahoria.png'
 const products = [
     {
         src: berenjena,
-        name: 'berenjena',
+        name: 'Berenjena',
         unit: 'Unidad',
         price: 640 
     },
     {
         src: costina,
-        name: 'costina',
+        name: 'Costina',
         unit: 'Unidad',
         price: 900
     },
     {
         src: escarola,
-        name: 'escarola',
+        name: 'Escarola',
         unit: 'Unidad',
         price: 700
     },
     {
         src: espinaca,
-        name: 'espinaca',
+        name: 'Espinaca',
         unit: '500 gr',
         price: 1200
     },
     {
         src: pimenton_amarillo,
-        name: 'pimentón amarillo',
+        name: 'Pimentón Amarillo',
         unit: 'Unidad',
         price: 1200 
     },
     {
         src: pimenton_verde,
-        name: 'pimentón verde',
+        name: 'Pimentón Verde',
         unit: 'Unidad',
         price: 750 
     },
     {
         src: tomate,
-        name: 'tomate',
+        name: 'Tomate',
         unit: 'Kg',
         price: 1300
     },
     {
         src: zanahoria,
-        name: 'zanahoria',
+        name: 'Zanahoria',
         unit: 'Kg',
         price: 900
     },
