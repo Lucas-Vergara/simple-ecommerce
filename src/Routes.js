@@ -18,9 +18,9 @@ const Routes = () => {
             <Router>
                 <Navbar />
                 <Switch>
-                    <Route exact path="/" component={Home}/>
-                    <Route exact path="/shop" component={Shopping} />
-                    <Route exact path="/cart" component={Cart} />
+                    <Route exact path="/simple-ecommerce/" component={Home}/>
+                    <Route exact path="/simple-ecommerce/shop" component={Shopping} />
+                    <Route exact path="/simple-ecommerce/cart" component={Cart} />
                 </Switch>
             </Router>
         </Provider>
