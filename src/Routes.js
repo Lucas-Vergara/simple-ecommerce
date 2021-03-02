@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import Shopping from "./components/shopping";
 import Navbar from "./components/navbar"
 import Home from './components/home'
@@ -15,14 +15,14 @@ library.add(faPlus, faMinus, faShoppingCart);
 const Routes = () => {
     return (
         <Provider>
-            <Router>
+            <HashRouter basename='/'>
                 <Navbar />
                 <Switch>
-                    <Route exact path="/simple-ecommerce/" component={Home}/>
-                    <Route exact path="/simple-ecommerce/shop" component={Shopping} />
-                    <Route exact path="/simple-ecommerce/cart" component={Cart} />
+                    <Route exact path="/" component={Home}/>
+                    <Route exact path="/shop" component={Shopping} />
+                    <Route exact path="/cart" component={Cart} />
                 </Switch>
-            </Router>
+            </HashRouter>
         </Provider>
     );
 };

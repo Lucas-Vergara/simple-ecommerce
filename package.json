@@ -1,6 +1,6 @@
 {
-  "homepage": "https://lucas-vergara.github.io/simple-ecommerce",
   "name": "simple-ecommerce",
+  "homepage": "https://lucas-vergara.github.io/simple-ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
